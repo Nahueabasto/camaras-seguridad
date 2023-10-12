@@ -1,11 +1,12 @@
 import React from "react";
-import Home from "../components/Home";
-import About from "../components/About";
-import Work from "../components/Work";
-import Testimonial from "../components/Testimonial"
-import Contact from "../components/Contact"
-import Footer from "../components/Footer"
+import Home from "./Home";
+import About from "./About";
+import Work from "./Work";
+import Testimonial from "./Testimonial"
+import Contact from "./Contact"
+import Footer from "./Footer"
 import "../App.css";
+
 
 export default function Inicio(){
     return(

@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 import './App.css';
-import Inicio from './pages/Inicio';
+import Inicio from './components/Inicio';
 
 
 function App() {
