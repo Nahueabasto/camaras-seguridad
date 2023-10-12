@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 import './App.css';
-import Inicio from './Pages/Inicio';
+import Inicio from './pages/Inicio';
 
 
 function App() {
@@ -11,7 +11,6 @@ function App() {
     <div className="App"> 
         <Switch>
           <Route exact path="/" component={Inicio} />
-       
         </Switch>
       </div>
     </BrowserRouter>
