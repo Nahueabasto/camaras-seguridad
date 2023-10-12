@@ -1,10 +1,10 @@
 import React from "react";
-import Home from "./Home";
-import About from "./About";
-import Work from "./Work";
-import Testimonial from "./Testimonial"
-import Contact from "./Contact"
-import Footer from "./Footer"
+import Home from "../Component/Home";
+import About from "../Component/Abaut";
+import Work from "../Component/Work";
+import Testimonial from "../Component/Testiminial";
+import Contact from "../Component/Contact";
+import Footer from "../Component/Footer";
 import "../App.css";
 
 
